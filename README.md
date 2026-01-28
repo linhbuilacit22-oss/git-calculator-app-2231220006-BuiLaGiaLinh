@@ -1,3 +1,7 @@
+![CI](https://github.com/linhbuilacit22-oss/git-calculator-app-2231220006-BuiLaGiaLinh/actions/workflows/build-and-test.yml/badge.svg)
+
+# Calculator App
+
 # Calculator App (Pro Structure)
 
 A cleanly organized Electron app with separated **main**, **preload**, **renderer**, and **shared** layers.
